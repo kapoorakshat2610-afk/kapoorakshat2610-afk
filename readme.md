@@ -54,10 +54,10 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kapoorakshat2610-afk&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapoorakshat2610-afk&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kapoorakshat2610-afk&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapoorakshat2610-afk&layout=compact&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapoorakshat2610-afk&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapoorakshat2610-afk&theme=dark&hide_border=true" />
 
 </div>
 
@@ -77,7 +77,7 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kapoorakshat2610-afk&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kapoorakshat2610-afk&theme=dark&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -102,6 +102,3 @@ I'm a student building projects across web, mobile, and backend — with a focus
 ⭐️ Thanks for stopping by! Feel free to connect or check out my repos.
 
 </div>
-
-
-
