@@ -50,6 +50,14 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 ---
 
+### 📜 Certificates
+
+| Certificate | Issuer | Link |
+|---|---|---|
+| Python For AI | Udemy | [View Certificate](https://github.com/kapoorakshat2610-afk/kapoorakshat2610-afk/blob/main/certificates/Udemy-Python%20For%20AI.pdf) |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
