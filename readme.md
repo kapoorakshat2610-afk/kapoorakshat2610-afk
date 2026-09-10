@@ -43,10 +43,10 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 | Project | Description | Tech |
 |---|---|---|
-| [ai_sports_talent](https://github.com/kapoorakshat2610-afk/ai_sports_talent) | AI-powered sports talent app (mobile front-end) | Dart / Flutter |
-| [ai_sports_talent_backend](https://github.com/kapoorakshat2610-afk/ai_sports_talent_backend) | Backend service powering the sports talent app | Python |
-| [runner-analyzer-api](https://github.com/kapoorakshat2610-afk/runner-analyzer-api) | API for analyzing runner performance data | Python |
-| [runner-video-service](https://github.com/kapoorakshat2610-afk/runner-video-service) | Video processing service for runner analysis | Python |
+| [ai_sports_talent](https://github.com/kapoorakshat2610-afk/ai_sports_talent) | 📱 Mobile app that uses AI to help identify and evaluate sports talent, built with a clean cross-platform UI | Dart / Flutter |
+| [ai_sports_talent_backend](https://github.com/kapoorakshat2610-afk/ai_sports_talent_backend) | ⚙️ Backend service powering the AI sports talent app — handles data processing and model inference | Python |
+| [runner-analyzer-api](https://github.com/kapoorakshat2610-afk/runner-analyzer-api) | 🏃 REST API that analyzes runner performance metrics to surface insights on form and progress | Python |
+| [runner-video-service](https://github.com/kapoorakshat2610-afk/runner-video-service) | 🎥 Video processing pipeline that extracts and analyzes running form from footage | Python |
 
 ---
 
