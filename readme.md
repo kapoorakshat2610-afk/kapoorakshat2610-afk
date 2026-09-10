@@ -63,6 +63,16 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 ---
 
+### 🧩 DSA Stats (LeetCode)
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/akshatkapoor1012?theme=dark&font=Karma&ext=heatmap" />
+
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
@@ -77,6 +87,10 @@ I'm a student building projects across web, mobile, and backend — with a focus
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/kapoorakshat2610-afk" alt="GitHub contribution chart" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapoorakshat2610-afk&theme=react-dark&hide_border=true" />
 
 </div>
@@ -88,4 +102,6 @@ I'm a student building projects across web, mobile, and backend — with a focus
 ⭐️ Thanks for stopping by! Feel free to connect or check out my repos.
 
 </div>
+
+
 
